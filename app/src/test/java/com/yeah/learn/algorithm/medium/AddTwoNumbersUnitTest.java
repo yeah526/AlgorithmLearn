@@ -1,4 +1,4 @@
-package com.yeah.learn.algorithm;
+package com.yeah.learn.algorithm.medium;
 
 import org.junit.Test;
 
